@@ -15,6 +15,7 @@ don't support deposits from smart contracts.
   <li> <a href="https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=http://shizzlenizzle.com/&utm_medium=affiliate&utm_campaign=967a"> Ledger </a></li>
 </ul>
 
+# How to buy SHNZ
 
 You can buy and sell your SHNZ on the following markets: <a href="https://etherdelta.com/#SHNZ-ETH"> Etherdelta</a> & <a href="https://idex.market/eth/shnz"> IDEX </a>.
 
