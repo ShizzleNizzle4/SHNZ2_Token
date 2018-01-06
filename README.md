@@ -10,9 +10,9 @@ Only use an Ethereum address that supports ERC-20 tokens. No exchange Ethereum a
 don't support deposits from smart contracts.
 
 
-You can buy and sell your SHNZ on the following markets: <a href="https://etherdelta.com/#SHNZ-ETH" target="#"> Etherdelta</a> & <a href="https://idex.market/eth/shnz" target="#"> IDEX </a>.
+You can buy and sell your SHNZ on the following markets: <a href="https://etherdelta.com/#SHNZ-ETH"> Etherdelta</a> & <a href="https://idex.market/eth/shnz"> IDEX </a>.
 
-You can also buy SHNZ by sending Ethereum to the smart contract: 0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B 
+You can also buy SHNZ by sending Ethereum to the smart contract: <a href="https://etherscan.io/address/0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B"> 0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B </a>
 
 
 
