@@ -8,6 +8,9 @@ SHNZ value is based on the community and entertainment value of the product. The
 
 Only use an Ethereum address that supports ERC-20 tokens. No exchange Ethereum address. Exchanges
 don't support deposits from smart contracts.
+<ul>
+  <li> <a href="https://ethereum.org/"> Ethereum Wallet </a></li>
+</ul>
 
 
 You can buy and sell your SHNZ on the following markets: <a href="https://etherdelta.com/#SHNZ-ETH"> Etherdelta</a> & <a href="https://idex.market/eth/shnz"> IDEX </a>.
