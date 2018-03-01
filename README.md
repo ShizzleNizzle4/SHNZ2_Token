@@ -17,7 +17,7 @@ don't support deposits from smart contracts.
 
 # How to buy SHNZ
 
-You can buy and sell your SHNZ from Etherdelta: <a href="https://etherdelta.com/#SHNZ-ETH"> Etherdelta</a> 
+You can buy and sell your SHNZ from Etherdelta: <a href="https://forkdelta.github.io/#!/trade/SHNZ-ETH"> ForkDelta</a> 
 
 You can also buy SHNZ by sending Ethereum to the smart contract: <a href="https://etherscan.io/address/0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B"> 0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B </a>
 
