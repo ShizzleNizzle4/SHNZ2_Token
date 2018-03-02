@@ -19,6 +19,7 @@ don't support deposits from smart contracts.
 
 You can buy SHNZ from the following exchanges: 
 <ul>
+  <li> <a href="https://etherdelta.com/#SHNZ-ETH"> EtherDelta </a> </li>
   <li> <a href="https://forkdelta.github.io/#!/trade/SHNZ-ETH"> ForkDelta</a> </li>
   <li> <a href="https://www.etherflyer.com/trade.html?pairs=SHNZ-ETH"> EtherFlyer</a> </li>
 </ul>
