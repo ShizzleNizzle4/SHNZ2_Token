@@ -1,6 +1,6 @@
 # What is Shizzle Nizzle?
 
-Shizzle Nizzle is a fun, stylish, fast ERC-20 cryptocurrency on the Ethereum blockchain. Shizzle Nizzle provides a refreshing note of humor from the seriousness in the cryptocurrency market. Shizzle Nizzle (SHNZ) coins will be awarded based on SHNZ meme creations.
+Shizzle Nizzle is a fun, stylish, fast ERC-20 cryptocurrency on the Ethereum blockchain. The goal of Shizzle Nizzle is to build a global community loyalty rewards entertainment system between buyers and sellers that creates fun and creative profitability. Our plan is to build a crypto-metaverse where people can connect socially, communicate, trade and shop. 
 
 SHNZ value is based on the community and entertainment value of the product. The more people that value the token, the higher the price. 
 
@@ -22,6 +22,9 @@ You can buy SHNZ from the following exchanges:
   <li> <a href="https://etherdelta.com/#SHNZ-ETH"> EtherDelta </a> </li>
   <li> <a href="https://forkdelta.github.io/#!/trade/SHNZ-ETH"> ForkDelta</a> </li>
   <li> <a href="https://www.etherflyer.com/trade.html?pairs=SHNZ-ETH"> EtherFlyer</a> </li>
+  <li> <a href="https://tokenjar.io/"> TokenJar</a> </li>
+  <li> <a href="https://bitebtc.com/trade/shnz_btc"> BiteBTC (BTC)</a> </li>
+  <li> <a href="https://bitebtc.com/trade/shnz_eth"> BiteBTC (ETH)</a> </li>
 </ul>
 
 You can also buy SHNZ by sending Ethereum to the smart contract: <a href="https://etherscan.io/address/0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B"> 0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B </a>
