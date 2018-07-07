@@ -22,7 +22,6 @@ You can buy SHNZ from the following exchanges:
   <li> <a href="https://etherdelta.com/#SHNZ-ETH"> EtherDelta </a> </li>
   <li> <a href="https://forkdelta.github.io/#!/trade/SHNZ-ETH"> ForkDelta</a> </li>
   <li> <a href="https://www.etherflyer.com/trade.html?pairs=SHNZ-ETH"> EtherFlyer</a> </li>
-  <li> <a href="https://octaex.com/trade/index/market/shnz_btc"> OctaEx </a> </li>
 </ul>
 
 You can also buy SHNZ by sending Ethereum to the smart contract: <a href="https://etherscan.io/address/0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B"> 0x5C43dfe6Fb066AF16bcb2A0f35Bd904c330abA5B </a>
