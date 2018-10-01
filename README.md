@@ -23,7 +23,7 @@ You can buy SHNZ2 from the following exchanges:
   <li> <a href="https://dexdelta.github.io/#!/trade/SHNZ2-ETH"> DexDelta</a> </li>
 </ul>
 
-For more information, please vist our official <a href="http://shizzlenizzle.com/">website</a>
+For more information, please vist our official <a href="http://shizzlenizzle.com/">website</a> 
 
 
 
