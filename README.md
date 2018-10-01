@@ -1,8 +1,6 @@
 # What is Shizzle Nizzle?
 
-Shizzle Nizzle is a fun, stylish, fast ERC-20 cryptocurrency on the Ethereum blockchain. The goal of Shizzle Nizzle is to build a global community loyalty rewards entertainment system between buyers and sellers that creates fun and creative profitability. Our plan is to build a crypto-metaverse where people can connect socially, communicate, trade and shop. 
-
-SHNZ value is based on the community and entertainment value of the product. The more people that value the token, the higher the price. 
+The goal of Shizzle Nizzle is to build a fun, creative, and profitability crypto-metaverse where the Shizzle Nizzle community can connect socially, find entertainment, shop, or even buy and sell real estate in Shizzle Nizzle Land, (SNL). 
 
 # Compatible Wallets
 
@@ -11,6 +9,7 @@ don't support deposits from smart contracts.
 <ul>
   <li> <a href="https://ethereum.org/"> Ethereum Wallet </a></li>
   <li> <a href="https://metamask.io/"> MetaMask </a></li>
+  <li> <a href="https://token.im/download> imToken </a></li>
   <li> <a href="https://www.myetherwallet.com/"> MyEtherWallet </a></li>
   <li> <a href="https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=http://shizzlenizzle.com/&utm_medium=affiliate&utm_campaign=967a"> Ledger </a></li>
 </ul>
@@ -21,10 +20,8 @@ You can buy SHNZ2 from the following exchanges:
 <ul>
   <li> <a href="https://etherdelta.com/#SHNZ-ETH"> EtherDelta </a> </li>
   <li> <a href="https://forkdelta.github.io/#!/trade/SHNZ-ETH"> ForkDelta</a> </li>
-  <li> <a href="https://www.etherflyer.com/trade.html?pairs=SHNZ-ETH"> EtherFlyer</a> </li>
-  <li> <a href="https://tokenjar.io/"> TokenJar</a> </li>
+  <li> <a href="https://dexdelta.github.io/#!/trade/SHNZ2-ETH"> DexDelta</a> </li>
 </ul>
-
 
 For more information, please vist our official <a href="http://shizzlenizzle.com/">website</a>
 
