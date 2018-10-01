@@ -9,7 +9,7 @@ don't support deposits from smart contracts.
 <ul>
   <li> <a href="https://ethereum.org/"> Ethereum Wallet </a></li>
   <li> <a href="https://metamask.io/"> MetaMask </a></li>
-  <li> <a href="https://token.im/download> imToken </a></li>
+  <li> <a href="https://token.im/download"> imToken </a></li>
   <li> <a href="https://www.myetherwallet.com/"> MyEtherWallet </a></li>
   <li> <a href="https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=http://shizzlenizzle.com/&utm_medium=affiliate&utm_campaign=967a"> Ledger </a></li>
 </ul>
