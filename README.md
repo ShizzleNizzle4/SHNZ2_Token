@@ -18,8 +18,8 @@ don't support deposits from smart contracts.
 
 You can buy SHNZ2 from the following exchanges: 
 <ul>
-  <li> <a href="https://etherdelta.com/#SHNZ-ETH"> EtherDelta </a> </li>
-  <li> <a href="https://forkdelta.github.io/#!/trade/SHNZ-ETH"> ForkDelta</a> </li>
+  <li> <a href="https://etherdelta.com/#0x7c70c1093653ca3aa47ac5d8f934125a0aaa1645-ETH"> EtherDelta </a> </li>
+  <li> <a href="https://forkdelta.app/#!/trade/0x7c70c1093653ca3aa47ac5d8f934125a0aaa1645-ETH"> ForkDelta</a> </li>
   <li> <a href="https://dexdelta.github.io/#!/trade/SHNZ2-ETH"> DexDelta</a> </li>
 </ul>
 
